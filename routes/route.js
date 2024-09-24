@@ -1,6 +1,4 @@
 const router = require("express").Router();
-const app=express();
-const port=3000;
 
 const {
   adminRegister,
